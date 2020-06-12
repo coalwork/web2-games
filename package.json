@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "balloon popping",
   "main": "index.js",
+  "repository": "https://github.com/coalwork/web2-games.git",
   "scripts": {
     "start": "nodemon index.js"
   },
