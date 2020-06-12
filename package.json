@@ -5,7 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/coalwork/web2-games.git",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "You thought it was the author, but it was ME! DIO!",
