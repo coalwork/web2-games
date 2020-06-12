@@ -4,7 +4,7 @@ const app = express();
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.listen(80);
-console.log('App is listening on port 80');
+app.listen(process.env.PORT);
+console.log(`App is listening on port ${process.env.PORT}`);
 
 // TODO: Move this project to Heroku
