@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/coalwork/web2-games.git",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "keywords": [],
